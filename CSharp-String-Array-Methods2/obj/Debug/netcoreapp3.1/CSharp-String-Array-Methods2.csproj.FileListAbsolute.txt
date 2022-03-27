@@ -1,0 +1,14 @@
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-String-Array-Methods2\CSharp-String-Array-Methods2\bin\Debug\netcoreapp3.1\CSharp-String-Array-Methods2.exe
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-String-Array-Methods2\CSharp-String-Array-Methods2\bin\Debug\netcoreapp3.1\CSharp-String-Array-Methods2.deps.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-String-Array-Methods2\CSharp-String-Array-Methods2\bin\Debug\netcoreapp3.1\CSharp-String-Array-Methods2.runtimeconfig.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-String-Array-Methods2\CSharp-String-Array-Methods2\bin\Debug\netcoreapp3.1\CSharp-String-Array-Methods2.runtimeconfig.dev.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-String-Array-Methods2\CSharp-String-Array-Methods2\bin\Debug\netcoreapp3.1\CSharp-String-Array-Methods2.dll
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-String-Array-Methods2\CSharp-String-Array-Methods2\bin\Debug\netcoreapp3.1\CSharp-String-Array-Methods2.pdb
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-String-Array-Methods2\CSharp-String-Array-Methods2\obj\Debug\netcoreapp3.1\CSharp-String-Array-Methods2.csproj.AssemblyReference.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-String-Array-Methods2\CSharp-String-Array-Methods2\obj\Debug\netcoreapp3.1\CSharp-String-Array-Methods2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-String-Array-Methods2\CSharp-String-Array-Methods2\obj\Debug\netcoreapp3.1\CSharp-String-Array-Methods2.AssemblyInfoInputs.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-String-Array-Methods2\CSharp-String-Array-Methods2\obj\Debug\netcoreapp3.1\CSharp-String-Array-Methods2.AssemblyInfo.cs
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-String-Array-Methods2\CSharp-String-Array-Methods2\obj\Debug\netcoreapp3.1\CSharp-String-Array-Methods2.csproj.CoreCompileInputs.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-String-Array-Methods2\CSharp-String-Array-Methods2\obj\Debug\netcoreapp3.1\CSharp-String-Array-Methods2.dll
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-String-Array-Methods2\CSharp-String-Array-Methods2\obj\Debug\netcoreapp3.1\CSharp-String-Array-Methods2.pdb
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-String-Array-Methods2\CSharp-String-Array-Methods2\obj\Debug\netcoreapp3.1\CSharp-String-Array-Methods2.genruntimeconfig.cache
